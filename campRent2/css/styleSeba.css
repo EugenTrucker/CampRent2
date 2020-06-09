@@ -1,0 +1,189 @@
+body
+{
+	background-color: white;
+	margin: 0 !important;
+}
+.logo{
+	color:black;
+}
+.wrapper{
+	width: 100%;
+	text-align: center;
+	font-family: Arial;
+	color:white;
+	color: #ffffff;
+}
+.header{
+	width: 100%;
+	text-align: center;
+}
+
+.logo{
+	height: 200px;
+	width: 1000px;
+	font-size: 70px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin: auto;
+	
+
+}
+.nav{
+	width: 100%;
+	padding: 25px 0;
+	background-color: rgb(59, 59, 223);
+	text-align: center;
+	border-top: 5px lightblue;
+	border-bottom: 5px rgb(59, 59, 223);
+	height: 50px;
+	color: #ffffff !important;
+
+}
+.content{
+	background-color: white;
+	width: 1000px;
+	height: 4000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.sticky
+{
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 100;
+}
+.about
+{
+color: black;
+font-size: 40px;
+height: 350px;
+background-color: rgb(59, 59, 223);
+}
+.aboutWypozycz
+{
+color: black;
+font-size: 40px;
+height: 4000px;
+background-color: rgb(59, 59, 223);
+text-align: center;
+}
+.pros
+{
+	height: 500px;
+	padding: 0 !important;
+	background-color: rgb(59, 59, 223);
+}
+.prostxt
+{
+	width: 480px;
+	float: left;
+	padding: 25px;
+	height: 500px;
+	font-size: 25px;
+	text-align: center;
+	padding: 0 !important;
+}
+.mustimg
+{
+	float: left;
+	height: 500px;
+	padding: 0 !important;
+	
+
+}
+.musttxt
+{	background-color: rgb(59, 59, 223);
+	height: 500px;
+	font-size: 25px;
+	text-align: center;
+
+}
+.mustimg
+{
+	height: 500px;
+	width: 500px;
+}
+.costs
+{
+	height: 50px;
+	width: 100%;
+	display: inline-block;
+}
+.x
+{	border: 25px solid rgb(59, 59, 223);
+	font-size: 22px;
+	height: 150px;
+	width:200px;
+	float: left;
+	background-color: rgb(41, 41, 151);
+	padding: 10px white;
+	display: block;
+}
+.koszty	
+{
+	height: 700px;
+	width: 1000px;
+	background-color: rgb(59, 59, 223);
+	font-size: 60px;
+}
+
+.squaremoney
+{
+	font-size: 20px;
+	float: left;
+height: 300px;
+width: 400px;
+background-color: grey;
+margin: 50px;
+margin-top: 100px;
+
+}
+.kontakt
+{
+	font-size: 60px;
+
+}
+
+
+ol
+{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	font-size: 25px;
+	height: 50px;
+	line-height: 200%;
+	display: inline-block;
+	color: #ffffff;
+
+
+
+}
+ol a
+{
+	text-decoration: none;
+	display: block;
+	color:#ffffff;
+
+}
+ol > li
+{
+width: 180px;
+float: left;
+height: 50px;
+
+}
+
+ol > li:hover
+{
+	background-color: white;
+	color:black;
+	text-align: center;
+	margin: 4px 2px;
+	transition: 0.3s;
+}
+
